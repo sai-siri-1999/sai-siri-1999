@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sai-siri-1999
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ... Big Data
+- 🌱 I’m currently learning ...Cloud Data Engineering
+- 💞️ I’m looking to collaborate on ... Big Data, Data Engineering
 - 📫 How to reach me ...
 
 <!---
